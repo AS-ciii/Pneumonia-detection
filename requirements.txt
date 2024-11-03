@@ -4,4 +4,4 @@ pillow==9.4.0
 numpy==1.24.0
 h5py==3.10.0
 matplotlib
-        
+setuptools
