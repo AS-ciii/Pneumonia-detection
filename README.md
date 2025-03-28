@@ -45,3 +45,5 @@ A Python-based pneumonia detection system with a user-friendly frontend built us
 
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
+
